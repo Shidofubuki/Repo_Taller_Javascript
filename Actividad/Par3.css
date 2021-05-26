@@ -1,0 +1,21 @@
+body {
+    background: black;
+    color: white;
+}
+
+.h1 {
+    border: 2px solid white;
+    width: 550px ;
+    background: green;
+    color: whitesmoke;
+    margin: 10px auto;
+    padding: 150px;
+    border: 2px solid whitesmoke;
+    text-align: justify;   
+    
+} 
+h1 {
+    text-align: center;
+    color: white;
+}
+

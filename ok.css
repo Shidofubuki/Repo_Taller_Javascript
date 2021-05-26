@@ -1,0 +1,25 @@
+body {
+    background: black;
+    color: whitesmoke;
+}
+
+.Hola{
+    width: 700px ;
+    background: green;
+    color: whitesmoke;
+    margin: 40px auto;
+    padding: 20px;
+    border: 2px solid whitesmoke;
+    text-align: center;    
+}
+.okey {
+    margin: 10px;
+}
+
+input {
+    margin: 10px;  
+}
+
+a{
+    text-align: left;
+}

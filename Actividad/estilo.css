@@ -1,0 +1,73 @@
+
+body {  
+ background: yellow;
+} 
+.agrupar {
+    width: 700px ;
+    background: black;
+    color: chartreuse;
+    margin: 40px auto;
+    border: 2px solid whitesmoke;
+    text-align: center;    
+}
+footer{
+    font: 30px impact bold ;
+    background: gray;
+    color:whitesmoke;
+    border: 2px solid whitesmoke;
+    width: 550px;
+    margin: 10px auto;
+   }
+.okey {
+    background: yellow;
+    color: black;
+    width: 200px; ;
+}
+
+table   {
+    border: 1px solid whitesmoke;   
+    margin: auto;
+}
+td {
+    border: 2px solid whitesmoke;
+    text-align: justify;
+}
+    
+.hola h1 {
+    font: 35px impact bold ;
+    background: gray;
+    color:whitesmoke;
+    border: 3px solid whitesmoke;
+    width: 550px;
+    margin: 10px auto;    
+}
+.cabecera h1 {
+    color:whitesmoke;
+    background: gray;
+    margin:10px auto;
+    width: 550px;   
+    font-size: 40px;
+    font-family:unset;
+    font-weight:bold; 
+    border: 3px solid whitesmoke;            
+}
+
+
+
+
+
+
+
+
+
+/* header, section, footer {
+    border: 1px solid orange;
+    }  */ /* sirve para poner borde */
+
+    /* p {
+        font-size: 15px;
+        font-family: serif;
+        width: 350px;
+        border: 1px solid black;
+        margin: auto;
+    }     */
